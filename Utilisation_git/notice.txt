@@ -1,0 +1,8 @@
+- Récupérer des modification : 
+  git pull origin main
+
+- Faire des modification et pousser sur le dépot: 
+  git add .
+  git commit -m "ajouter un message que tu veux"
+  git push origin main
+
