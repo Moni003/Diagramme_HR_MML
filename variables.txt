@@ -1,0 +1,12 @@
+- data_true : données réelles
+
+- data : données avec les colonnes pertinentes et avec les colonnes calculées [K-Means sans PCA]
+- data_clean ou X : données sans les NaNs [K-Means sans PCA]
+- X_scaled_df : données normalisées [K-Means sans PCA]
+
+- data_pca_calcul : données avec calculs de Distance, Absolutemag, Temperature [K-Means avec PCA]
+- data_pca_modified : données précédentes sans les colonnes inutiles [K-Means avec PCA]
+- data_pca_modified_2 : données sans la colonne "---" [K-Means avec PCA]
+- data_pca_modified_3 : données sans les NaNs [K-Means avec PCA]
+- data_scaled_df_pca : données normalisées [K-Means avec PCA]
+- data_t_df : données après PCA [K-Means avec PCA]
