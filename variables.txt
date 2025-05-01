@@ -10,3 +10,18 @@
 - data_pca_modified_3 : données sans les NaNs [K-Means avec PCA]
 - data_scaled_df_pca : données normalisées [K-Means avec PCA]
 - data_t_df : données après PCA [K-Means avec PCA]
+
+Variables HR_MML
+
+- data_true : données réelles
+- data_calcul : données réelles et calculées
+
+- data_pca_modified : données précédentes sans les colonnes inutiles [K-Means avec PCA]
+- data_pca_modified_2 : données sans la colonne "---" [K-Means avec PCA]
+- data_pca_modified_3 : données sans les NaNs [K-Means avec PCA]
+
+- data_clean = data_pca_modified_3
+
+RF
+- data_rf pour garder seulement quelques columnes
+
