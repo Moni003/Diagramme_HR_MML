@@ -41,3 +41,6 @@ Le modèle a permis de distinguer les principaux types stellaires. Cependant, un
 * Ajuster les paramètres de l’algorithme DBSCAN pour améliorer la qualité du clustering.
 * Réduire le nombre de variables utilisées lors de l'application de la PCA afin de se concentrer sur les caractéristiques les plus pertinentes.
 
+## Licence 
+Ce projet est sous licence MIT. Consultez le fichier [LICENCE](LICENCE) pour plus de détails sur les conditions de licence.
+
