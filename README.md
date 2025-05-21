@@ -9,13 +9,13 @@ Ce projet explore l'application de machine learning pour l'analyse du diagramme 
 
 ## Objectif 
 
-* L'objectif principal de ce projet est d'utiliser des méthodes d'apprentissage non supervisé pour identifier et caractériser les types d'étoiles au sein du diagramme HR.
+L'objectif principal de ce projet est d'utiliser des méthodes d'apprentissage non supervisé pour identifier et caractériser les types d'étoiles au sein du diagramme HR.
 
 
 
 ## Données
 
-* Le dataset utilisé est issu du **catalogue Hipparcos**, disponible sur Kaggle : [Hipparcos Star Catalog](https://www.kaggle.com/datasets/konivat/hipparcos-star-catalog/data)
+Le dataset utilisé est issu du **catalogue Hipparcos**, disponible sur Kaggle : [Hipparcos Star Catalog](https://www.kaggle.com/datasets/konivat/hipparcos-star-catalog/data)
 
 ## Méthodologie
 
