@@ -26,7 +26,7 @@ Le dataset utilisé est issu du **catalogue Hipparcos**, disponible sur Kaggle :
   * **Évaluation du modèle pour le clustering**
   * **Labellisation des données**
   * **Apprentissage supervisé (classification : Random Forest)**
-  * **Évaluation du modèle pour la classification (matrice de confusion, accuracy, precision, recall, f1-score...)
+  * **Évaluation du modèle pour la classification (matrice de confusion, accuracy, precision, recall, f1-score...)**
 
 
 ## Résultats 
